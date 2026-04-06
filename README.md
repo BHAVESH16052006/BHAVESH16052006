@@ -1,21 +1,90 @@
-# 💫 About Me:
-🔭 I’m currently working on <br>      SafeShield — a real-time spam detection web app using Flask & ML<br>👯 I’m looking to collaborate on<br>      Full-stack web apps (React + Flask) and open-source Python projects<br>🤝 I’m looking for help with<br>      AWS deployment strategies and scaling Flask apps to production<br>🌱 I’m currently learning<br>      Advanced React.js, AWS (EC2 & S3), and cloud-based deployment<br>⚡ Fun fact<br>      I organized a cybersecurity event that reached 460+ students — as a 2nd-year student!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:9370DB&height=200&section=header&text=Sravani%20Pathivada&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</div>
 
+<h1 align="center">Hi 👋, I'm Bhavesh</h1>
+<h3 align="center">AI • IoT • Full-Stack Development</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p_____bhavesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PenneruBhavesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshsripavanpenneru@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=3rd+Year+IT+Student;AI+%26+IoT+Enthusiast;Django+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BHAVESH16052006&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BHAVESH16052006&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVESH16052006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/sravanig8">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-blue?logo=python">
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/Django-darkgreen?logo=django">
+  </a>
+  <img src="https://img.shields.io/badge/AI-Projects-purple">
+  <img src="https://img.shields.io/badge/IoT-Systems-orange">
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BHAVESH16052006&limit=5&theme=default&combine_all_yearly_contributions=true)
+<div align="center">
+Hi! My name is <b>Bhavesh Penneru</b>. Thank you for visiting my GitHub profile 😊
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BHAVESH16052006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2> About Me 
+<img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px">
+</h2>
+
+<img width="55%" align="right" alt="Female Developer" src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" />
+
+- 🚀 Passionate about turning real-world problems into intelligent AI and IoT solutions.  
+- 🎓 3rd-year B.Tech IT student at VRSEC.  
+- 🌱 Currently strengthening my skills in DSA, Django, and Generative AI.  
+- 🛠️ I love building practical projects like smart irrigation systems and AI assistants.  
+- 💬 Open to internships, collaborations, and new technology challenges.  
+
+---
+
+<h2> Skills 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
+</h2>
+
+<p>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
+</p>
+
+---
+
+<h2> GitHub Stats </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sravanig8&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sravanig8&theme=tokyonight" />
+</p>
+
+---
+
+<h2> Connect with me 
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
+</h2>
+
+<a href="https://www.linkedin.com/in/sravanipathivada/">
+<img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+</a>
+
+<a href="mailto:pathivadasravani28@gmail.com">
+<img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/>
+</a>
+
+<a href="https://github.com/sravanig8">
+<img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+</a>
+
+<br><br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
